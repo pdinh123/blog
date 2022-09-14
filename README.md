@@ -6,3 +6,4 @@ I would like to have a place that I can share my thoughts with the world as well
 
 ## Appendix
 Adding some new stuff as well
+Making some changes
