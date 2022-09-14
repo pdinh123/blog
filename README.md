@@ -1,1 +1,2 @@
-This is a filler
+# Blog
+This is a place to store my thoughts on the internet
