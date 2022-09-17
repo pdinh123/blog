@@ -8,7 +8,7 @@
 
 [View Flutter Minimal Website](https://gallery.codelessly.com/flutterwebsites/minimal/)
 
-[CanvasKit Renderer Version](https://gallery.codelessly.com/flutterwebsites/minimal-canvas/)
+[CanvasKit Renderer Version](https://gallery.codelessly.com/flutterwebsites/minimal-canvas/)ls
 
 [HTML Renderer Version](https://gallery.codelessly.com/flutterwebsites/minimal-html/)
 
